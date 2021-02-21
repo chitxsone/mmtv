@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg" group-title="MYANMAR",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg" group-title="MYANMAR", Channel-7
+https://foreveralive1-a.akamaihd.net/b889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/an/k9f0cLiMmtchQySOogzoig/featured_channel.jpg?v=5b28f906" group-title="MYANMAR", Mizzima
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613934741/ei/NVwyYOXmAcGPmgejqK7QAQ/ip/46.244.29.160/id/Fw1gPOW60jw.1/source/yt_live_broadcast/requiressl/yes/tx/9417362/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOSRiiOou7y0bKaM58CiDiS7Taz0Rt0BA-O6EFjp03RBAiBOqLZbJ4pDwVAYSpLlC_SH2f7y-DgFxFbj9_c5mvrQFg%3D%3D/file/index.m3u8
