@@ -4,8 +4,12 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg" group-title="MYANMAR", Channel-7
 https://foreveralive1-a.akamaihd.net/b889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/an/k9f0cLiMmtchQySOogzoig/featured_channel.jpg?v=5b28f906" group-title="MYANMAR", Mizzima
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613934741/ei/NVwyYOXmAcGPmgejqK7QAQ/ip/46.244.29.160/id/Fw1gPOW60jw.1/source/yt_live_broadcast/requiressl/yes/tx/9417362/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOSRiiOou7y0bKaM58CiDiS7Taz0Rt0BA-O6EFjp03RBAiBOqLZbJ4pDwVAYSpLlC_SH2f7y-DgFxFbj9_c5mvrQFg%3D%3D/file/index.m3u8
+https://bit.ly/3pBcQol
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="NEWS",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.channelnewsasia.com/blueprint/cna/img/logo-cna-new.svg" group-title="NEWS",CNA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bit.ly/3pJBHGq" group-title="NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bit.ly/3pEBnJ7" group-title="NEWS",CBS
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/aced922c-7f80-4b5d-a4a8-b6658fe68fbd:SIN/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://media4.s-nbcnews.com/i/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.png" group-title="NEWS",NBC
+https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1614005193~acl=%2f*~data=hdntl~hmac=42555d60c394ad4152b812d7033c3dee63229aa8c269d652ccf5da21ba6fe2b4/VIDEO_0_6596000.m3u8
