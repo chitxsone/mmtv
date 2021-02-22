@@ -8,7 +8,10 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 https://foreveralive1-a.akamaihd.net/b889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/an/k9f0cLiMmtchQySOogzoig/featured_channel.jpg?v=5b28f906" group-title="MYANMAR", Mizzima
-tiny.cc/mthotz
+http://tiny.cc/mthotz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbo-logo.jpg" group-title="MOVIE", HBO
+https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="NEWS",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
