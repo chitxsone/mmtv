@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg" group-title="MYANMAR",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
@@ -8,13 +7,13 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 https://foreveralive1-a.akamaihd.net/b889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/an/k9f0cLiMmtchQySOogzoig/featured_channel.jpg?v=5b28f906" group-title="MYANMAR", Mizzima
-http://tiny.cc/mthotz
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614002769/ei/8WUzYK7ON_DD3LUPwqqfoA8/ip/46.244.29.161/id/TSBR-WaNRMc.1/source/yt_live_broadcast/requiressl/yes/tx/9417362/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI2j9LdJ9hJEPFRq-6Nzm253mdv9QPpexpDEseFx1OBJAiEAvdB3dlSv49BJrvzVrKfnPpTFqt3MLBFXFbu4_owMe_c%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbo-logo.jpg" group-title="MOVIE", HBO
 https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="NEWS",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+https://bcliveunivsecure-lh.akamaihd.net/i/geneva_1@86971/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -37,8 +36,12 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png" group-title="NEWS", NHK WORLD (Japan)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png" group-title="NEWS", NHK WORLD (Chinese)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJ4HZSEOLozatNYI8UZlpyXdtmvd7GNF9bDwe7wA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS", Arirange
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="NEWS", CNN
 http://203.162.235.41:16918
+
